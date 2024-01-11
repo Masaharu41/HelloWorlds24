@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{CBD0893F-4392-49E4-80D6-58C108ADC6F0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>HelloWorld.Module1</StartupObject>
+    <StartupObject>HelloWorld.HelloWorld</StartupObject>
     <RootNamespace>HelloWorld</RootNamespace>
     <AssemblyName>HelloWorld</AssemblyName>
     <FileAlignment>512</FileAlignment>
